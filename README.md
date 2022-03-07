@@ -1,8 +1,4 @@
-# CypherPunk-Manifesto
-
-A Cypherpunk's Manifesto
-
-by Eric Hughes
+# CypherPunk-Manifesto by Eric Hughes
 
 Privacy is necessary for an open society in the electronic age.
 Privacy is not secrecy.  A private matter is something one doesn't
